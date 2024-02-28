@@ -1,4 +1,4 @@
-# Copyright (c) 2024, Navari Ltd and Contributors
+# Copyright (c) 2024, Bollex Ltd and Contributors
 # See license.txt
 
 import frappe
@@ -58,7 +58,7 @@ def create_test_companies() -> None:
     company_3.save()
 
 
-class TestNavariKRAeTimsSettings(FrappeTestCase):
+class TestBollexKRAeTimsSettings(FrappeTestCase):
     """Test Cases"""
 
     def setUp(self) -> None:
