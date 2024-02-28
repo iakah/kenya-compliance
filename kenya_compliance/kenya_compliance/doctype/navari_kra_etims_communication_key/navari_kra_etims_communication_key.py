@@ -1,4 +1,4 @@
-# Copyright (c) 2024, Navari Ltd and contributors
+# Copyright (c) 2024, Bollex Ltd and contributors
 # For license information, please see license.txt
 
 import frappe
@@ -6,7 +6,7 @@ from frappe.model.document import Document
 from ...logger import etims_logger
 
 
-class NavariKRAeTimsCommunicationKey(Document):
+class BollexKRAeTimsCommunicationKey(Document):
     """Communication Key doctype"""
 
     def __init__(self, *args, **kwargs):
