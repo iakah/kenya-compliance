@@ -1,4 +1,4 @@
-# Copyright (c) 2024, Navari Ltd and Contributors
+# Copyright (c) 2024, Bollex Ltd and Contributors
 # See license.txt
 
 from datetime import date
@@ -10,7 +10,7 @@ from frappe.tests.utils import FrappeTestCase
 from ..doctype_names_mapping import LAST_REQUEST_DATE_DOCTYPE_NAME
 
 
-class TestNavariKRAeTimsLastRequestDate(FrappeTestCase):
+class TestBollexKRAeTimsLastRequestDate(FrappeTestCase):
     """Test Cases"""
 
     def test_setting_future_last_request_date(self) -> None:
