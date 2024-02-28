@@ -2,9 +2,9 @@ from .kenya_compliance.doctype.doctype_names_mapping import ROUTES_TABLE_DOCTYPE
 
 app_name = "kenya_compliance"
 app_title = "Kenya Compliance"
-app_publisher = "Navari Ltd"
+app_publisher = "Bollex Ltd"
 app_description = "KRA Etims Integration for ERPNext based applications"
-app_email = "solutions@navari.co.ke"
+app_email = "solutions@bollex.co.ke"
 app_license = "gpl-3.0"
 # required_apps = []
 
