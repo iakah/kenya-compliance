@@ -184,7 +184,7 @@ def get_route_path(
     search_field: str = "CodeSearchReq",
     routes_table_doctype: str = ROUTES_TABLE_CHILD_DOCTYPE_NAME,
 ) -> str | None:
-    """Searches and retrieves the route path from the KRA eTims Route Table Navari doctype
+    """Searches and retrieves the route path from the KRA eTims Route Table Bollex doctype
 
     Args:
         search_field (str): The field to search
