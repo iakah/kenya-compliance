@@ -1,11 +1,11 @@
-# Copyright (c) 2024, Navari Ltd and contributors
+# Copyright (c) 2024, Bollex Ltd and contributors
 # For license information, please see license.txt
 
 # import frappe
 from frappe.model.document import Document
 
 
-class NavariKRAeTimsRouteTable(Document):
+class BollexKRAeTimsRouteTable(Document):
     """Routes Table Doctype"""
 
     def validate(self) -> None:
