@@ -1,7 +1,7 @@
-// Copyright (c) 2024, Navari Ltd and contributors
+// Copyright (c) 2024, Bollex Ltd and contributors
 // For license information, please see license.txt
 
-frappe.ui.form.on("Navari KRA eTims Settings", {
+frappe.ui.form.on("Bollex KRA eTims Settings", {
   sandbox: function (frm) {
     const sandboxFieldValue = parseInt(frm.doc.sandbox);
     const sandboxServerUrl = "https://etims-api-sbx.kra.go.ke/etims-api";
