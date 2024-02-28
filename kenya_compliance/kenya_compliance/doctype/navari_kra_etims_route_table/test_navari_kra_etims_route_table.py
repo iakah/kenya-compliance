@@ -1,4 +1,4 @@
-# Copyright (c) 2024, Navari Ltd and Contributors
+# Copyright (c) 2024, Bollex Ltd and Contributors
 # See license.txt
 
 import frappe
@@ -10,7 +10,7 @@ from ..doctype_names_mapping import (
 )
 
 
-class TestNavariKRAeTimsRouteTable(FrappeTestCase):
+class TestBollexKRAeTimsRouteTable(FrappeTestCase):
     """Test Cases"""
 
     def test_url_path_formatting(self) -> None:
