@@ -1,4 +1,4 @@
-# Copyright (c) 2024, Navari Ltd and contributors
+# Copyright (c) 2024, Bollex Ltd and contributors
 # For license information, please see license.txt
 from datetime import datetime
 
@@ -9,7 +9,7 @@ from ...logger import etims_logger
 from ...utils import build_datetime_from_string
 
 
-class NavariKRAeTimsLastRequestDate(Document):
+class BollexKRAeTimsLastRequestDate(Document):
     """Last Request Date Doctype"""
 
     def __init__(self, *args, **kwargs):
