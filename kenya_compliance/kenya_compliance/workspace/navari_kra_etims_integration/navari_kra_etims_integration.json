@@ -1,6 +1,6 @@
 {
   "charts": [],
-  "content": "[{\"id\":\"i-Nk1Jq1o4\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">Navari KRA eTims Integration</span>\",\"col\":12}},{\"id\":\"In42RI7PvF\",\"type\":\"card\",\"data\":{\"card_name\":\"Shortcuts\",\"col\":4}}]",
+  "content": "[{\"id\":\"i-Nk1Jq1o4\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">Bollex KRA eTims Integration</span>\",\"col\":12}},{\"id\":\"In42RI7PvF\",\"type\":\"card\",\"data\":{\"card_name\":\"Shortcuts\",\"col\":4}}]",
   "creation": "2024-02-22 05:03:54.776141",
   "custom_blocks": [],
   "docstatus": 0,
@@ -10,7 +10,7 @@
   "idx": 0,
   "indicator_color": "pink",
   "is_hidden": 0,
-  "label": "Navari KRA eTims Integration",
+  "label": "Bollex KRA eTims Integration",
   "links": [
     {
       "hidden": 0,
@@ -25,7 +25,7 @@
       "is_query_report": 0,
       "label": "Integration Settings",
       "link_count": 0,
-      "link_to": "Navari KRA eTims Settings",
+      "link_to": "Bollex KRA eTims Settings",
       "link_type": "DocType",
       "onboard": 0,
       "type": "Link"
@@ -35,7 +35,7 @@
       "is_query_report": 0,
       "label": "Routes Reference",
       "link_count": 0,
-      "link_to": "Navari KRA eTims Route Table",
+      "link_to": "Bollex KRA eTims Route Table",
       "link_type": "DocType",
       "onboard": 0,
       "type": "Link"
@@ -45,7 +45,7 @@
       "is_query_report": 0,
       "label": "Communication Keys",
       "link_count": 0,
-      "link_to": "Navari KRA eTims Communication Key",
+      "link_to": "Bollex KRA eTims Communication Key",
       "link_type": "DocType",
       "onboard": 0,
       "type": "Link"
@@ -55,7 +55,7 @@
       "is_query_report": 0,
       "label": "Last Request Date",
       "link_count": 0,
-      "link_to": "Navari KRA eTims Last Request Date",
+      "link_to": "Bollex KRA eTims Last Request Date",
       "link_type": "DocType",
       "onboard": 0,
       "type": "Link"
@@ -65,7 +65,7 @@
       "is_query_report": 0,
       "label": "Integration Logs",
       "link_count": 0,
-      "link_to": "Navari KRA eTims Integration Log",
+      "link_to": "Bollex KRA eTims Integration Log",
       "link_type": "DocType",
       "onboard": 0,
       "type": "Link"
@@ -74,7 +74,7 @@
   "modified": "2024-02-22 08:02:39.371106",
   "modified_by": "Administrator",
   "module": "Kenya Compliance",
-  "name": "Navari KRA eTims Integration",
+  "name": "Bollex KRA eTims Integration",
   "number_cards": [],
   "owner": "Administrator",
   "parent_page": "",
@@ -83,5 +83,5 @@
   "roles": [],
   "sequence_id": 42.0,
   "shortcuts": [],
-  "title": "Navari KRA eTims Integration"
+  "title": "Bollex KRA eTims Integration"
 }
