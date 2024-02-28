@@ -1,4 +1,4 @@
-# Copyright (c) 2024, Navari Ltd and contributors
+# Copyright (c) 2024, Bollex Ltd and contributors
 # For license information, please see license.txt
 
 import frappe
@@ -9,7 +9,7 @@ from ...utils import is_valid_kra_pin, is_valid_url
 from ..doctype_names_mapping import PRODUCTION_SERVER_URL, SANDBOX_SERVER_URL
 
 
-class NavariKRAeTimsSettings(Document):
+class BollexKRAeTimsSettings(Document):
     """ETims Integration Settings doctype"""
 
     def __init__(self, *args, **kwargs):
