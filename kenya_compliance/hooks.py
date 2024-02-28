@@ -4,7 +4,7 @@ app_name = "kenya_compliance"
 app_title = "Kenya Compliance"
 app_publisher = "Bollex Ltd"
 app_description = "KRA Etims Integration for ERPNext based applications"
-app_email = "solutions@bollex.co.ke"
+app_email = "dev@bollex.net"
 app_license = "gpl-3.0"
 # required_apps = []
 
