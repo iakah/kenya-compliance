@@ -1,7 +1,7 @@
 [project]
 name = "kenya_compliance"
 authors = [
-    { name = "Navari Ltd", email = "solutions@navari.co.ke"}
+    { name = "Bollex Ltd", email = "dev@bollex.net"}
 ]
 description = "KRA Etims Integration for ERPNext based applications"
 requires-python = ">=3.10"
