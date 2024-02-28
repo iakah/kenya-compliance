@@ -1,4 +1,4 @@
-# Copyright (c) 2024, Navari Ltd and Contributors
+# Copyright (c) 2024, Bollex Ltd and Contributors
 # See license.txt
 
 import frappe
@@ -6,7 +6,7 @@ from frappe.tests.utils import FrappeTestCase
 from ..doctype_names_mapping import COMMUNICATION_KEYS_DOCTYPE_NAME
 
 
-class TestNavariKRAeTimsCommunicationKey(FrappeTestCase):
+class TestBollexKRAeTimsCommunicationKey(FrappeTestCase):
     """Test Cases"""
 
     def test_communication_key_length(self) -> None:
